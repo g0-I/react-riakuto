@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
         </a>
+        <title>react</title>
       </header>
     </div>
   );
