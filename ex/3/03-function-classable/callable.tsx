@@ -16,10 +16,10 @@
 
 // in-line
 {
-  const add: (n: numberm, m: number) => number = function (n, m) {
+  const add: ( n: numberm, m: number) => number = function (n, m) {
     return n + m;
   };
-  const subtract: (n: number, m: number) => number = (n, m) => n - m;
+  const subtract: ( n: number, m: number) => number = (n, m) => n - m;
 
   console.log(add(3, 7)); // 10
   console.log(subtract(10, 8)) // 2
