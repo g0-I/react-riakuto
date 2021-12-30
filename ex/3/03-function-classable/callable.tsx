@@ -2,7 +2,7 @@
 
 {
   interface NumOp {
-    ( n: number, m:number ): number;
+    ( n: number, m: number ): number;
   }
 
   const add: NumOp = function (n, m){
