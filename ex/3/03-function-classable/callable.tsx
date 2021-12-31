@@ -24,3 +24,4 @@
   console.log(add(3, 7)); // 10
   console.log(subtract(10, 8)) // 2
 }
+
