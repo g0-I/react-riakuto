@@ -5,7 +5,7 @@
     ( n: number, m: number ): number;
   }
 
-  const add: NumOp = function (n, m){
+  const add: NumOp = function (n, m) {
     return n + m;
   };
   const subtract: NumOp = (n, m) => n - m;
