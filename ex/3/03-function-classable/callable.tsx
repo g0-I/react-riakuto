@@ -1,4 +1,4 @@
-//callable object type
+// callable object type
 
 {
   interface NumOp {
