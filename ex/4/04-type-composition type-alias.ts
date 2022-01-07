@@ -1,4 +1,3 @@
-
 type Unit = 'USD' | 'EUR' | 'JPY' | 'GBP';
 
 type TCurrency = {
