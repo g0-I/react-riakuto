@@ -12,3 +12,4 @@ interface ICurrency{
 
 const priceA: TCurrency = { unit: 'JPY', amount: 1000 };
 const priceB: Icurrency = { unit: 'USD', ampunt: 10 };
+
