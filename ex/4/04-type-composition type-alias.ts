@@ -7,7 +7,7 @@ type TCurrency = {
 
 interface ICurrency{
   unit: Unit;
-  amount: Unit;
+  amount: number;
 }
 
 const priceA: TCurrency = { unit: 'JPY', amount: 1000 };
