@@ -10,4 +10,3 @@ class Rectangle {
  
  getArea = (): number => this.sideA * this.sideB;
 }
-
