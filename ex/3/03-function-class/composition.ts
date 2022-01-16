@@ -8,3 +8,4 @@ class Square{
 
   getArea = (): number => new Rectangle(this.side, this.side).getArea();
 }
+
