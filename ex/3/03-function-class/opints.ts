@@ -1,0 +1,14 @@
+class Point {
+  x: number = 0;
+  y: number = 0;
+
+}
+
+const pointA new Point();
+const pointB: point = { x: 2, y: 4};
+
+interface Point3d extends Point {
+  z: number = 0;
+}
+
+const pointC: point3d = { x: 5, y: 5, z: 10};
